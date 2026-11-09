@@ -1,0 +1,6 @@
+@CalidadAireApi_HostAddress = http://localhost:5136
+
+GET {{CalidadAireApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
